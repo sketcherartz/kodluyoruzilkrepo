@@ -1,0 +1,12 @@
+Adım 1: Dizinin en küçük elemanını bulun ve ilk eleman ile yer değiştirin.
+
+Dizi: [2, 3, 5, 8, 7, 9, 4, 15, 6]
+Adım 2: Dizinin ikinci en küçük elemanını bulun ve ikinci eleman ile yer değiştirin.
+
+Dizi: [2, 3, 5, 8, 7, 9, 4, 15, 6]
+Adım 3: Dizinin üçüncü en küçük elemanını bulun ve üçüncü eleman ile yer değiştirin.
+
+Dizi: [2, 3, 4, 8, 7, 9, 5, 15, 6]
+Adım 4: Dizinin dördüncü en küçük elemanını bulun ve dördüncü eleman ile yer değiştirin.
+
+Dizi: [2, 3, 4, 5, 7, 9, 8, 15, 6]
