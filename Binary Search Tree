@@ -1,0 +1,24 @@
+Aşama 1: İlk elemanı kök olarak ayarla.
+
+Kök: 7
+Aşama 2: Dizideki diğer elemanları köke göre ekle.
+
+5, kök olan 7'nin sol altında bir düğüm olarak eklenir.
+1, 5'in sol altında bir düğüm olarak eklenir.
+8, kök olan 7'nin sağ altında bir düğüm olarak eklenir.
+3, 5'in sol altında olan 1'in sağ altına eklenir.
+6, 5'in sol altında olan 3'ün sağ altına eklenir.
+0, 1'in sol altında eklenir.
+9, 8'in sağ altında eklenir.
+4, 3'ün sağ altında olan 6'nın sol altına eklenir.
+2, 3'ün sağ altında olan 6'nın sağ altına eklenir.
+
+       7
+      / \
+     5   8
+    / \   \
+   1   6   9
+  / \
+ 0   3
+    / \
+   2   4
